@@ -1,4 +1,4 @@
-name: Recovery Build(Snowwolf725)
+name: Recovery Build(WINGS110)
 
 on:
   workflow_dispatch:
